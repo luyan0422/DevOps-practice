@@ -1,0 +1,3 @@
+
+
+2024-12-16 21:03:57 - Archived '/var/log' to '/usr/pj/DevOps-practice/log-archive-tool/archive/logs_archive_20241216_210357.tar.gz'
